@@ -9,6 +9,7 @@ gem 'sinatra-activerecord'
 gem 'sinatra-contrib'
 gem 'pg'
 gem 'rake'
+gem "rack", ">= 2.0.8"
 
 group :development do
   gem 'rerun'
